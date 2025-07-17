@@ -1,0 +1,5 @@
+MSCI marginal log-likelihood: -91562.922252
+ABC marginal log-likelihood: -91623.474821
+BCA marginal log-likelihood: -91578.067185
+MSCM marginal log-likelihood: -91619.921217
+
